@@ -1,0 +1,14 @@
+body{
+  background-image:url(https://cdn.i-scmp.com/sites/default/files/d8/images/canvas/2021/07/10/a3636062-8753-47ab-8721-010de4f5cad9_18b9dfb5.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+    }
+table,th,td{
+  border:3px solid black;
+  background-color:lightgreen;
+}
+img{
+  width:100px;
+  height:100 px
+}
